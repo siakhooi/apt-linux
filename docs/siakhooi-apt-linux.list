@@ -1,0 +1,1 @@
+deb [signed-by=/usr/share/keyrings/siakhooi-apt-linux.gpg] https://siakhooi.github.io/apt-linux stable main
