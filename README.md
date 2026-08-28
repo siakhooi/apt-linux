@@ -15,7 +15,6 @@ Site: <https://siakhooi.github.io/apt-linux/>
 ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed-raw/siakhooi/apt-linux?logo=github)
 ![GitHub top language](https://img.shields.io/github/languages/top/siakhooi/apt-linux?logo=github)
 ![GitHub language count](https://img.shields.io/github/languages/count/siakhooi/apt-linux?logo=github)
-![Lines of code](https://img.shields.io/tokei/lines/github/siakhooi/apt-linux?logo=github)
 ![GitHub repo size](https://img.shields.io/github/repo-size/siakhooi/apt-linux?logo=github)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/siakhooi/apt-linux?logo=github)
 ![Workflow](https://img.shields.io/badge/Workflow-github-purple)
