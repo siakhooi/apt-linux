@@ -1,8 +1,10 @@
 # apt-linux
 Siak Hooi's APT Repository for Linux
 
-
 Site: <https://siakhooi.github.io/apt-linux/>
+
+## Applications
+- [Fibo Planner](https://github.com/siakhooi/fibo-planner)
 
 ## Badges
 
