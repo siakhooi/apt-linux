@@ -5,6 +5,7 @@ Site: <https://siakhooi.github.io/apt-linux/>
 
 ## Applications
 - [Fibo Planner](https://github.com/siakhooi/fibo-planner)
+- [picsum](https://github.com/siakhooi/picsum)
 
 ## Badges
 
