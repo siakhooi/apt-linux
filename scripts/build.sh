@@ -8,7 +8,7 @@ if [[ ! -f apt-ftparchive.conf ]]; then
 fi
 set -x
 
-mkdir -p docs/dists/stable/main/binary-{amd64,all}
+mkdir -p docs/dists/stable/main/binary-{amd64,i386,arm64,all}
 mkdir -p cache
 apt-ftparchive generate apt-ftparchive.conf
 apt-ftparchive -c apt-ftparchive.conf release docs/dists/stable > docs/dists/stable/Release
